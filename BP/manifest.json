@@ -1,0 +1,52 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Leo"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.23"
+			],
+			"dash": [
+				"github:bridge-core/dash-compiler#8fa35c73292f6382747d0f411fca26431a6d2c8e"
+			]
+		}
+	},
+	"header": {
+		"name": "my_bridge_tutorial",
+		"description": "A trial project for bridge ide",
+		"min_engine_version": [
+			1,
+			20,
+			80
+		],
+		"uuid": "5492309f-ec40-493d-98d9-c37018ebf09a",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "63a3b44d-dc52-4545-adb0-25d0f8881e95",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "97d09486-8530-4cd1-810d-673c0676a30a",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
